@@ -1,0 +1,3 @@
+2025-04-21 09:04:16 | Query: hi | Results: 0
+2025-04-21 09:04:25 | Query: guide | Results: 1
+2025-04-21 09:04:31 | Query: guide | Results: 1
